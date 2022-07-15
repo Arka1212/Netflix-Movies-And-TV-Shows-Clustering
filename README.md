@@ -46,3 +46,23 @@ Following are the steps being taken during the analysis process:
 * Used elbow method and silhouette scoring method to find out optimal value of 'K' which is used for K-means clustering algorithm.
 * Performed principal component analysis (PCA) so as to get rid of curse of dimensionality.
 * At the end created a recommendation system using cosine similarity.
+
+# Conclusions
+
+1.   **There are basically two types of content in the dataset: 'Movies' & 'TV shows'.**
+2.   **Netflix has more movies which constitutes 69.05% of total content than TV shows which is only 30.95% of total content.**
+3.   **'Christmas', 'Love', 'Man', 'World' are some of the most utilized words for movie titles.**
+4.   **'Raul Campos and Jan Suter' have most number of contents in this particular dataset.**
+5.   **'United States' tops the list with maximum number of contents.**
+6.   **Most of the movies are 'TV-MA' rated.**
+7.   **Most of the TV shows are 'TV-MA' rated as well.**
+8.   **Most movies were released during the last decade (2010 - 2020 ) compared to all other time periods.**
+9.   **Most of the movies were released in the year 2017 followed by 2018 and 2016.**
+10.  **Most of the TV Shows were released in 2020 followed by 2019 and 2018.**
+11.  **Majority of the movies have duration ranging from 85 minutes to 120 minutes.**
+12.  **'Family', 'life', 'find', 'friend' are some of the most utilized words in description.**
+13.  **Most of the streamed TV Shows have only one season.**
+14.  **Most of the contents are basically documentaries.**
+15.  **Optimal number of clusters were found out to be 27 with silhouette coefficient value of 0.02765.**
+16.  **Principal component analysis was performed in order to reduce the dimensionality which improved the silhouette coefficient to 0.3561.**
+
